@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI systems and health data
 - 💞️ I’m looking to collaborate on making an app for trend monitoring live input
 - 📫 How to reach me is by 
-- 😄 Pronouns: 
+- 😄 Pronouns: he/him/Mr.  
 - ⚡ Fun fact: ...
 
 <!---
